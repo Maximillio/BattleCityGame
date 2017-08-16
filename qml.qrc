@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Resources/Base.PNG</file>
+        <file>Resources/Bullet.PNG</file>
+        <file>Resources/TankAI.PNG</file>
+        <file>Resources/TankPlayer.PNG</file>
+        <file>Resources/WallBrick.PNG</file>
+        <file>Resources/WallSteel.PNG</file>
+        <file>Resources/componentCreator.js</file>
+        <file>TankPlayer.qml</file>
+        <file>TankAI.qml</file>
+        <file>WallBrick.qml</file>
+        <file>WallSteel.qml</file>
+        <file>Base.qml</file>
+        <file>Bullet.qml</file>
+        <file>EndGameMessage.qml</file>
+    </qresource>
+</RCC>
