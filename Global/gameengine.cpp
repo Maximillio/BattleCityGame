@@ -195,7 +195,7 @@ void GameEngine::gameLoop()
         }
         if (gameStop)
         {
-			mutex.unlock();
+            mutex.unlock();
             break;
         }
         mutex.unlock();
